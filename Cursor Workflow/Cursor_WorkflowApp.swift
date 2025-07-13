@@ -11,7 +11,7 @@ import SwiftUI
 struct Cursor_WorkflowApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            MainView()
         }
     }
 }
